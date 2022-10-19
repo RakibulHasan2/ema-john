@@ -1,33 +1,5 @@
-.cart-info h2{
-  text-align: center;
-}
-.grand-total{
-    font-weight: 700;
-    font-size: 17px;
-}
-.process-btn button{
-   width: 100%;
-   margin-bottom: 10px;
-  
-}
-.clear-cart-btn{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color:  #f93030;;
-    color: white;
-    border: none;
-    border-radius: 10px
-}
-.review-btn{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color:  #FF9900;
-    color: white;
-    border: none;
-    border-radius: 10px
-}
-.btnText p{
-    margin-right: 8px;
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
 }
